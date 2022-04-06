@@ -1,8 +1,8 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Wordle Clone",
+      "live": "https://najeesimmons.github.io/wordle/",
+      "git": "https://github.com/najeesimmons/wordle",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
