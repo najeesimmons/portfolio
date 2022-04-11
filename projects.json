@@ -1,12 +1,14 @@
 [
     {
       "name": "Wordle Clone",
+      "description" : "I will add description here!",
       "live": "https://najeesimmons.github.io/wordle/",
       "git": "https://github.com/najeesimmons/wordle",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
       "name": "project2",
+      "description" : "I will add description here!",
       "live": "https://app.netlify.app/whatever",
       "git": "http://www.github.com/username/reponame",
       "image": "http://www.imgur.com/pictureofproject.png"
