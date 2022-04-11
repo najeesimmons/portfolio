@@ -1,7 +1,7 @@
 [
     {
-      "name": "Wordle Clone",
-      "description" : "I will add description here!",
+      "name": "Wordle +",
+      "description" : "Like millions of others around the world, I really enjoy the New York Time's daily 'Wordle.' I decided to tackle my version of this game in three parts. Stage 1: Recreate the basic functionality and visual style of the game using Javascript and basic DOM manupulation. Stage 2: give users the option to change the number of letters in a guess, making the game more challenging. Stage 3: Adding the ability for users to send friends a link to the game where the guess is a word that the sender has chosen determined. ",
       "live": "https://najeesimmons.github.io/wordle/",
       "git": "https://github.com/najeesimmons/wordle",
       "image": "http://www.imgur.com/pictureofproject.png"
