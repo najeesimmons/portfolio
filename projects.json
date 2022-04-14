@@ -7,6 +7,13 @@
       "image": "https://i.imgur.com/cfs0DBg.png"
     },
     {
+      "name": "Ink X",
+      "description" : "Ink X is a MERN Stack application social media app that helps tattoo artists find clients in their area.",
+      "live": "https://beautiful-profiterole-7323ce.netlify.app",
+      "git": "https://github.com/najeesimmons/inkX_frontend",
+      "image": "https://i.imgur.com/EGcRy97.png"
+    },
+    {
       "name": "Coming Soon",
       "description" : "",
       "live": "",
