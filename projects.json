@@ -4,7 +4,14 @@
       "description" : "I really like Wordle -- so I thought I'd create my own version and take it to the next level!",
       "live": "https://najeesimmons.github.io/wordle/",
       "git": "https://github.com/najeesimmons/wordle",
-      "image": "https://i.imgur.com/DLDYMKv.png"
+      "image": "https://i.imgur.com/DLDYMKv.png",
+      "stack": [
+        {
+          "html":"https://i.imgur.com/oL03xZA.png",
+          "css": "https://i.imgur.com/Z7HCQq7.png",
+          "javascript": "https://i.imgur.com/DIDhXm4.png" 
+        }
+      ]
     },
     {
       "name": "ink X",
