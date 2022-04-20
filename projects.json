@@ -1,30 +1,30 @@
 [
-    {
-      "name": "Wordle +",
-      "description" : "I really like Wordle -- so I thought I'd create my own version and take it to the next level!",
-      "live": "https://najeesimmons.github.io/wordle/",
-      "git": "https://github.com/najeesimmons/wordle",
-      "image": "https://i.imgur.com/DLDYMKv.png",
-      "stack": [
-        {
-          "html":"https://i.imgur.com/oL03xZA.png",
-          "css": "https://i.imgur.com/Z7HCQq7.png",
-          "javascript": "https://i.imgur.com/DIDhXm4.png" 
-        }
-      ]
-    },
-    {
-      "name": "ink X",
-      "description" : "Ink X is a MERN Stack application social media app that helps tattoo artists find clients in their area.",
-      "live": "https://beautiful-profiterole-7323ce.netlify.app",
-      "git": "https://github.com/najeesimmons/inkX_frontend",
-      "image": "https://i.imgur.com/EGcRy97.png"
-    },
-    {
-      "name": "Coming Soon",
-      "description" : "",
-      "live": "",
-      "git": "",
-      "image": "https://i.imgur.com/36SzKUK.png"
-    }
-  ]
+  {
+    "name": "Wordle +",
+    "description": "I really like Wordle -- so I thought I'd create my own version and take it to the next level!",
+    "live": "https://najeesimmons.github.io/wordle/",
+    "git": "https://github.com/najeesimmons/wordle",
+    "image": "https://i.imgur.com/DLDYMKv.png",
+    "stack": [
+      { "technology":"html","image": "https://i.imgur.com/oL03xZA.png" },
+      { "technology":"css","image": "https://i.imgur.com/Z7HCQq7.png" },
+      { "technology":"javascript","image": "https://i.imgur.com/DIDhXm4.png" }
+    ]
+  },
+  {
+    "name": "ink X",
+    "description": "Ink X is a MERN Stack application social media app that helps tattoo artists find clients in their area.",
+    "live": "https://beautiful-profiterole-7323ce.netlify.app",
+    "git": "https://github.com/najeesimmons/inkX_frontend",
+    "image": "https://i.imgur.com/EGcRy97.png",
+    "stack": []
+  },
+  {
+    "name": "Coming Soon",
+    "description": "",
+    "live": "",
+    "git": "",
+    "image": "https://i.imgur.com/36SzKUK.png",
+    "stack": []
+  }
+]
