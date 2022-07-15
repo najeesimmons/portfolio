@@ -1,7 +1,7 @@
 [
   {
     "name": "Wordle +",
-    "description": "I really like Wordle -- so I thought I'd create my own version and take it to the next level!",
+    "description": ["Pure Javascript clone of the popular game Wordle", "Utilizes Extensive DOM manipulation", "New features, expanding on the original game to come"],
     "live": "https://najeesimmons.github.io/wordle/",
     "git": "https://github.com/najeesimmons/wordle",
     "image": "https://i.imgur.com/DLDYMKv.png",
@@ -13,7 +13,7 @@
   },
   {
     "name": "ink X",
-    "description": "Ink X is a MERN Stack application social media app that helps tattoo artists find clients in their area.",
+    "description": ["MERN stack social media app helping tattoo artists find clients in their area", "Full CRUD operations on several data models", "Redesign and new features to come"],
     "live": "https://beautiful-profiterole-7323ce.netlify.app",
     "git": "https://github.com/najeesimmons/inkX_frontend",
     "image": "https://i.imgur.com/EGcRy97.png",
@@ -26,7 +26,7 @@
   },
   {
     "name": "Coming Soon",
-    "description": "",
+    "description": [],
     "live": "",
     "git": "",
     "image": "https://i.imgur.com/36SzKUK.png",
