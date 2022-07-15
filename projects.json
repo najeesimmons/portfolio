@@ -31,13 +31,5 @@
       { "technology": "css", "image": "https://i.imgur.com/Z7HCQq7.png" },
       { "technology": "javascript", "image": "https://i.imgur.com/DIDhXm4.png" }
     ]
-  },
-  {
-    "name": "Coming Soon",
-    "description": [],
-    "live": "",
-    "git": "",
-    "image": "https://i.imgur.com/36SzKUK.png",
-    "stack": []
   }
 ]
