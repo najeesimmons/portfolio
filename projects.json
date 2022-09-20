@@ -37,7 +37,7 @@
       { "technology": "express", "image": "https://i.imgur.com/qWWnmND.png" },
       { "technology": "node.js", "image": "https://i.imgur.com/AGudz0o.png" }
     ]
-  }
+  },
   {
     "name": "Wordle +",
     "description": [
