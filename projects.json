@@ -8,7 +8,7 @@
     ],
     "live": "https://beautiful-profiterole-7323ce.netlify.app",
     "git": "https://github.com/najeesimmons/inkX_frontend",
-    "image": "https://i.imgur.com/METbuNN.png",
+    "image": "https://i.imgur.com/Kqv3pX4.png",
     "stack": [
       { "technology": "mongoDB", "image": "https://i.imgur.com/qWx6Ldm.png" },
       { "technology": "express", "image": "https://i.imgur.com/qWWnmND.png" },
@@ -24,7 +24,7 @@
     ],
     "live": "https://open-source-kitchen.herokuapp.com/recipeblog/home",
     "git": "https://github.com/najeesimmons/open-source-kitchen-v2",
-    "image": "https://i.imgur.com/Kqv3pX4.png",
+    "image": "https://i.imgur.com/9HobOS5.png",
     "stack": [
       { "technology": "html", "image": "https://i.imgur.com/oL03xZA.png" },
       { "technology": "css", "image": "https://i.imgur.com/Z7HCQq7.png" },
